@@ -18,4 +18,4 @@ Este projeto foi desenvolvido para representar um sistema de criação de herói
 ## 🛠️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/jairsisconeto/seu-repositorio.git
+   git clone https://github.com/jairsisconeto/escrevendo-classes-jogo
